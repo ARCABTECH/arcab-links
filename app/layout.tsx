@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://links.arcab.com.br"),
   title: "ARCAB TECH | Links",
   description:
-    "Hub oficial de links da ARCAB para acesso rapido ao site, portfolio, redes e contato.",
+    "Hub oficial de links da ARCAB para acesso rapido ao site, redes e contato.",
   openGraph: {
     title: "ARCAB Links",
     description:
